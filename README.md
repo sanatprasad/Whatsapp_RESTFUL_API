@@ -21,12 +21,6 @@ var wa = whatsapi.createAdapter({
 ```
 You can get your whatsapp password using yowsup or Android password extractor.
 
-### Tech
-
-Wassup-Restful-API uses below mentioned of open source projects to work properly:
-
-* [Restify]
-* [whatsapi]
 
 
 
