@@ -1,4 +1,4 @@
-# Wassup-Restful-API
+# WHATSAPP-Restful-API
 A Restful API for whatsapp messenger allows to send text, images, video, vcard, audio, through its API calls. Below are examples of how you can send messages.
   * Text   url (/msg/91XXXXXXXXXX/your text message)
   - Video  url (/vid/91XXXXXXXXXX?video=video_url)
